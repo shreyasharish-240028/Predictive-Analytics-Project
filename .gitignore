@@ -22,3 +22,6 @@ env/
 
 # Temporary files
 *.log
+
+Data/filtered_manufacturers_data.csv
+Data/prepared_data.csv
