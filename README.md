@@ -1,4 +1,6 @@
-# Predictive Analytics Project
+# Plant-Based Meat Demand Forecasting (Predictive Analytics Project)
+This project predicts retail demand for plant-based meat products using machine learning.
+The goal is to help retailers optimize inventory planning, reduce spoilage, and avoid stockouts.
 
 ## Business Problem
 Retailers struggle to forecast demand for plant-based meat products. Overstock causes spoilage and losses, while understock results in missed revenue opportunities.
