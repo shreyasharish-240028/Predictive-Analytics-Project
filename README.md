@@ -34,3 +34,7 @@ Raw data was cleaned, merged, and feature engineered before modeling.
 The model identified important drivers of demand including brand, product characteristics, and manufacturer features. The results can support inventory planning and reduce stockouts and waste.
 
 ## Repository Structure
+
+## Note
+Due to GitHub file size limitations, the full raw dataset is not included in this repository. 
+A processed sample dataset is provided to reproduce the analysis and modeling workflow.
